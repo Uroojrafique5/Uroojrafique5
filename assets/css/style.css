@@ -824,10 +824,6 @@ a:hover {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-.about-img {
-  width: 207px;
-  height: 186px;
-}
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -835,8 +831,6 @@ a:hover {
 
 .about-mf .about-img {
   margin-bottom: 2rem;
-  width: 207px;
-  height: 186px;
 }
 }
 
