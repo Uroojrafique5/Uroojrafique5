@@ -831,12 +831,16 @@ a:hover {
 
 .about-mf .about-img {
   margin-bottom: 2rem;
-  width: 50%;
-  hight: 50%
+  width: 207px;
+  height: 186px;
+}
 }
 
 .about-mf .about-img img {
   margin-left: 10px;
+  width: 207px;
+  height: 186px;
+}
 }
 
 @media (min-width: 767px) {
